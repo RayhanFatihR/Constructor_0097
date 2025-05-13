@@ -42,5 +42,5 @@ int main(){
     cout << "Mahasiswa 2 : "; mhs2.cetak();
     cout << "Mahasiswa 3 : "; mhs3.cetak();
 
-    return 0;
+    return 0;   
 }
